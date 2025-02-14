@@ -1,18 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Isaac&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32" />
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Comp_1_00000-Ms8BEmw4CZaJxDFaCpPS5OmIL8MtPW.png" alt="Isaac Banner" width="100%" style="max-width: 1200px;" />
 </div>
 
-<p align="center">
-  <b>AI Development + Web3 │ Founder & Lead Dev <a href="https://lyxe.cx">@lyxe.cx</a></b>
-</p>
+<div align="center">
+  <h2>AI Development + Web3 │ Founder & Lead Dev <a href="https://lyxe.cx">@lyxe.cx</a></h2>
+</div>
 
 <div align="center">
   <a href="mailto:isaac@lyxe.cx"><img src="https://custom-icon-badges.demolab.com/badge/-isaac@lyxe.cx-0D1117?style=flat&logo=mail&logoColor=white"/></a>
   <a href="https://twitter.com/isaacodes_"><img src="https://custom-icon-badges.demolab.com/badge/-@isaacodes__-0D1117?style=flat&logo=twitter&logoColor=1DA1F2"/></a>
   <a href="https://isaac.gift"><img src="https://custom-icon-badges.demolab.com/badge/-isaac.gift-0D1117?style=flat&logo=link&logoColor=white"/></a>
 </div>
-
-<br />
 
 ## About Me
 
@@ -55,7 +53,11 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 ## Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=solana,typescript,react,python,nodejs,javascript,mongodb&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=solana,typescript,react,python,nodejs,javascript,mongodb&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=solana,typescript,react,python,nodejs,javascript,mongodb&theme=light" />
+    <img src="https://skillicons.dev/icons?i=solana,typescript,react,python,nodejs,javascript,mongodb&theme=dark" alt="Tech Stack" />
+  </picture>
 </div>
 
 <br/>
@@ -68,12 +70,6 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=isaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
 </div>
 
 <!-- Activity Graph -->
