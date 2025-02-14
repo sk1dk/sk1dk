@@ -1,32 +1,24 @@
 <div align="center">
-  <div style="background: linear-gradient(45deg, #ff6b81, #ff4757); padding: 20px; border-radius: 0 0 20px 20px;">
-    <h1 style="color: white; margin: 0; font-size: 40px;">Zura</h1>
-    <p style="color: #2ed573; font-size: 20px; margin: 10px 0;">Building the Future ⭐</p>
-    <img src="https://komarev.com/ghpvc/?username=sk1dk&style=flat-square&color=ff6b81" alt="Profile Views" />
+  <div style="background: linear-gradient(45deg, #ff6b81, #ff4757); padding: 30px; border-radius: 0 0 20px 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zura+%F0%9F%91%8B;Full+Stack+Developer;Security+%26+Automation+Expert;Building+the+Future+%E2%AD%90" alt="Typing SVG" />
+    
+    <div style="margin: 20px 0;">
+      <img src="https://komarev.com/ghpvc/?username=sk1dk&style=for-the-badge&color=ff4757" alt="Profile Views" />
+    </div>
   </div>
 </div>
 
 ## 💝 About Me
 <div align="center">
   <h3>Software Engineer from Tbilisi, Georgia 🇬🇪</h3>
+  <p>Passionate about crafting efficient and innovative solutions</p>
 </div>
 
-## 🌟 Specializing In
+## ⭐ Specializing In
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,go,ruby,react&theme=dark" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark" />
-  
-  <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,typescript,tailwind&theme=dark" />
-  
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github&theme=dark" />
+  <div style="background: #1a1b26; padding: 20px; border-radius: 10px; margin: 10px 0;">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,go,ruby,react&theme=dark" />
+  </div>
 </div>
 
 ## 📊 GitHub Stats
@@ -36,31 +28,17 @@
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sk1dk&theme=radical&hide_border=true&stroke=ff6b81&ring=ff6b81&fire=ff6b81&currStreakLabel=ff6b81&background=0d1117" />
 </div>
 
-## 🎯 Featured Projects
+## 🤖 Featured Project
 
-### 🤖 Discord-Cleaner
-<div align="center">
-  <a href="https://github.com/sk1dk/Discord-Cleaner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk1dk&repo=Discord-Cleaner&bg_color=0d1117&border_color=ff6b81&show_icons=true&theme=radical&hide_border=true" />
-  </a>
+<div style="background: #1a1b26; padding: 20px; border-radius: 10px; margin: 10px 0;">
+  <div align="center">
+    <a href="https://github.com/sk1dk/Discord-Cleaner">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk1dk&repo=Discord-Cleaner&bg_color=0d1117&border_color=ff6b81&show_icons=true&theme=radical&hide_border=true" />
+    </a>
+  </div>
+
+  <p align="center">A powerful Discord server management bot designed to streamline administrative tasks with features for channel management, member control, and role administration. Built with Discord.js v14+ and Node.js.</p>
 </div>
-
-- 🗑️ Intelligent Channel Management
-- 🛡️ Advanced Security Controls
-- 👥 Member Management System
-- ⚡ High Performance Architecture
-
-### 🎰 Casino Project
-<div align="center">
-  <a href="https://github.com/sk1dk/casino">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk1dk&repo=casino&bg_color=0d1117&border_color=ff6b81&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-- 🎮 Multiple Game Modes
-- 💰 Virtual Currency System
-- 🔒 Secure Transactions
-- 🌐 Real-time Multiplayer
 
 ## 💌 Let's Connect
 
