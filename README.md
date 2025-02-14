@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="background: linear-gradient(45deg, #ff6b81, #ff4757); padding: 50px; border-radius: 0 0 20px 20px;">
+  <div style="background: linear-gradient(45deg, #ff6b81, #ff4757); padding: 50px; border-radius: 0 0 40px 40px;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zura+%F0%9F%91%8B;Full+Stack+Developer;Security+%26+Automation+Expert;Building+the+Future+%E2%AD%90" alt="Typing SVG" />
     
   <div style="margin: 20px 0;">
