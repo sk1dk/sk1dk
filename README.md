@@ -67,7 +67,7 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isaaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
 </div>
 
 <br/>
@@ -77,9 +77,9 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacodes&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaaacodes&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaacodes&color=blue&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=isaaacodes&color=blue&style=flat&label=Profile+Views" />
 </div>
