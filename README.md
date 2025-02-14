@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1261779441974116452/1339987772982956174/Comp_1_00000.png" alt="Isaac Banner" width="100%" style="max-width: 1200px;" />
+  <img src="https://media.discordapp.net/attachments/1261779441974116452/1339987772982956174/Comp_1_00000.png?ex=67b0b85c&is=67af66dc&hm=7a3676e60c5bb70fefda256afecfa857fa2f9d56f3877199c85576f41a6c2d0e&" alt="Isaac Banner" width="100%" style="max-width: 1200px;" />
 </div>
 
 <div align="center">
