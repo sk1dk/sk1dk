@@ -61,7 +61,7 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacodes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Isaac's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=isaaacodes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Isaac's GitHub Stats" /> 
 </div>
 
 <br/>
