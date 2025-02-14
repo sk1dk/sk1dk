@@ -1,19 +1,18 @@
-
-
-
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1261779441974116452/1339987772982956174/Comp_1_00000.png?ex=67b0b85c&is=67af66dc&hm=7a3676e60c5bb70fefda256afecfa857fa2f9d56f3877199c85576f41a6c2d0e&" alt="Isaac Banner" width="100%" style="max-width: 1200px;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Isaac&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=32" />
 </div>
 
-<div align="center">
-  <h2>AI Development + Web3 │ Founder & Lead Dev <a href="https://lyxe.cx">@lyxe.cx</a></h2>
-</div>
+<p align="center">
+  <b>AI Development + Web3 │ Founder & Lead Dev <a href="https://lyxe.cx">@lyxe.cx</a></b>
+</p>
 
 <div align="center">
   <a href="mailto:isaac@lyxe.cx"><img src="https://custom-icon-badges.demolab.com/badge/-isaac@lyxe.cx-0D1117?style=flat&logo=mail&logoColor=white"/></a>
   <a href="https://twitter.com/isaacodes_"><img src="https://custom-icon-badges.demolab.com/badge/-@isaacodes__-0D1117?style=flat&logo=twitter&logoColor=1DA1F2"/></a>
   <a href="https://isaac.gift"><img src="https://custom-icon-badges.demolab.com/badge/-isaac.gift-0D1117?style=flat&logo=link&logoColor=white"/></a>
 </div>
+
+<br />
 
 ## About Me
 
@@ -56,36 +55,31 @@ I'm on a mission to build the future of tech, one line of code at a time. Whethe
 ## Tech Arsenal
 
 <div align="center">
-  <h3>🔗 Blockchain & Web3</h3>
-  <img src="https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana" alt="Solana" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  
-
-  
-  <h3>💻 Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=solana,typescript,react,python,nodejs,javascript,mongodb&theme=dark" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaaacodes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Isaac's GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacodes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Isaac's GitHub Stats" /> 
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=isaaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=isaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaaacodes&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacodes&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaaacodes&color=blue&style=flat&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=isaacodes&color=blue&style=flat&label=Profile+Views" />
 </div>
