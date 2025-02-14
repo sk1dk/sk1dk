@@ -1,64 +1,51 @@
 <div align="center">
-  <div style="background: linear-gradient(45deg, #ff6b81, #ff4757); padding: 300px; border-radius: 0 0 40px 40px;">
-    <br><br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Zura+%F0%9F%91%8B;Full+Stack+Developer;Security+%26+Automation+Expert;Building+the+Future+%E2%AD%90" alt="Typing SVG" />
-    
-   <div style="margin: 20px 0;">
-      <img src="https://komarev.com/ghpvc/?username=sk1dk&style=for-the-badge&color=ff4757" alt="Profile Views" />
-    </div>
-  </div>
+  <h1>AI Development + Web3 │ Founder & Lead Dev @lyxe.cx</h1>
 </div>
-
-## 💝 About Me
-<div align="center">
-  <h3>Software Engineer from Tbilisi, Georgia 🇬🇪</h3>
-  <p>Passionate about crafting efficient and innovative solutions</p>
-</div>
-
-## ⭐ Specializing In
-<div align="center">
-  <div style="background: #1a1b26; padding: 20px; border-radius: 10px; margin: 10px 0;">
-    <img src="https://skillicons.dev/icons?i=python,js,cpp,go,ruby,react&theme=dark" />
-  </div>
-</div>
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sk1dk&show_icons=true&count_private=true&hide_border=true&title_color=ff6b81&icon_color=ff6b81&text_color=c9d1d9&bg_color=0d1117" alt="Zura's Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sk1dk&theme=radical&hide_border=true&stroke=ff6b81&ring=ff6b81&fire=ff6b81&currStreakLabel=ff6b81&background=0d1117" />
-</div>
-
-## 🤖 Featured Project
-
-<div style="background: #1a1b26; padding: 20px; border-radius: 10px; margin: 10px 0;">
-  <div align="center">
-    <a href="https://github.com/sk1dk/Discord-Cleaner">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk1dk&repo=Discord-Cleaner&bg_color=0d1117&border_color=ff6b81&show_icons=true&theme=radical&hide_border=true" />
-    </a>
-  </div>
-
-  <p align="center">A powerful Discord server management bot designed to streamline administrative tasks with features for channel management, member control, and role administration. Built with Discord.js v14+ and Node.js.</p>
-</div>
-
-## 💌 Let's Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sk1dk">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <a href="mailto:isaac@lyxe.cx">
+    <img src="https://img.shields.io/badge/Email-isaac%40lyxe.cx-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/sk1dk">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://twitter.com/isaacodes_">
+    <img src="https://img.shields.io/badge/Twitter-%40isaacodes__-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
-<br>
+## About Me 👋
+
+Hey, I'm Isaac, a Web3, AI, and JavaScript developer passionate about building innovative and decentralized solutions. I specialize in smart contracts, blockchain development, and AI-driven applications, seamlessly integrating technology to create smarter and more efficient user experiences.
+
+With a strong foundation in modern JavaScript frameworks and a deep understanding of Web3, I'm always exploring new tools and pushing the boundaries of what's possible. Whether it's developing dApps, optimizing AI models, or experimenting with cutting-edge tech, I'm here to build the future, one line of code at a time.
+
+## 🚀 What's Happening at lyxe.cx
+
+- 📈 **Papertrading**: Memecoin paper-trading solutions for educational purposes
+- ⚡ **Web3 Powered Engine**: Smooth and realistic simulation for trading
+- 🤖 **Personal Assistant**: AI Powered smart assistant helping you grow pointing out your mistakes
+- 🏆 **Leaderboards**: Competitive rewards for high achievers promoting learning
+
+## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b81&height=100&section=footer" />
+  <img src="https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana" alt="Solana" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js" alt="Web3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/isaacodes_"><strong>Twitter</strong></a> •
+  <a href="https://isaac.gift"><strong>Website</strong></a> •
+  <a href="mailto:isaac@lyxe.cx"><strong>Email</strong></a>
+</div>
+
+---
+
+<div align="center">
+  <i>Let's build the decentralized future together! 🌟</i>
 </div>
