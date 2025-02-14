@@ -1,51 +1,91 @@
+
+
+
 <div align="center">
-  <h1>AI Development + Web3 │ Founder & Lead Dev @lyxe.cx</h1>
+  <img src="https://media.discordapp.net/attachments/1261779441974116452/1339987772982956174/Comp_1_00000.png?ex=67b0b85c&is=67af66dc&hm=7a3676e60c5bb70fefda256afecfa857fa2f9d56f3877199c85576f41a6c2d0e&" alt="Isaac Banner" width="100%" style="max-width: 1200px;" />
 </div>
 
 <div align="center">
-  <a href="mailto:isaac@lyxe.cx">
-    <img src="https://img.shields.io/badge/Email-isaac%40lyxe.cx-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/isaacodes_">
-    <img src="https://img.shields.io/badge/Twitter-%40isaacodes__-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <h2>AI Development + Web3 │ Founder & Lead Dev <a href="https://lyxe.cx">@lyxe.cx</a></h2>
 </div>
 
-## About Me 👋
+<div align="center">
+  <a href="mailto:isaac@lyxe.cx"><img src="https://custom-icon-badges.demolab.com/badge/-isaac@lyxe.cx-0D1117?style=flat&logo=mail&logoColor=white"/></a>
+  <a href="https://twitter.com/isaacodes_"><img src="https://custom-icon-badges.demolab.com/badge/-@isaacodes__-0D1117?style=flat&logo=twitter&logoColor=1DA1F2"/></a>
+  <a href="https://isaac.gift"><img src="https://custom-icon-badges.demolab.com/badge/-isaac.gift-0D1117?style=flat&logo=link&logoColor=white"/></a>
+</div>
 
-Hey, I'm Isaac, a Web3, AI, and JavaScript developer passionate about building innovative and decentralized solutions. I specialize in smart contracts, blockchain development, and AI-driven applications, seamlessly integrating technology to create smarter and more efficient user experiences.
+## About Me
 
-With a strong foundation in modern JavaScript frameworks and a deep understanding of Web3, I'm always exploring new tools and pushing the boundaries of what's possible. Whether it's developing dApps, optimizing AI models, or experimenting with cutting-edge tech, I'm here to build the future, one line of code at a time.
+Hey there! 👋 I'm Isaac, a passionate developer at the intersection of Web3 and AI. Here's a bit about what I do:
 
-## 🚀 What's Happening at lyxe.cx
+- 🚀 **Founder & Lead Developer** at [lyxe.cx](https://lyxe.cx), where we're revolutionizing the Web3 space
+- 💡 Specializing in **smart contracts**, **blockchain development**, and **AI-driven applications**
+- 🔧 Proficient in modern JavaScript frameworks, with a deep understanding of Web3 technologies
+- 🌐 Always exploring new tools and pushing the boundaries of decentralized tech
+- 🤖 Enthusiastic about integrating AI to create smarter, more efficient user experiences
+- 🛠️ Experienced in developing dApps, optimizing AI models, and experimenting with cutting-edge technologies
 
-- 📈 **Papertrading**: Memecoin paper-trading solutions for educational purposes
-- ⚡ **Web3 Powered Engine**: Smooth and realistic simulation for trading
-- 🤖 **Personal Assistant**: AI Powered smart assistant helping you grow pointing out your mistakes
-- 🏆 **Leaderboards**: Competitive rewards for high achievers promoting learning
+I'm on a mission to build the future of tech, one line of code at a time. Whether it's crafting innovative DeFi solutions or leveraging AI for blockchain optimization, I'm always up for the challenge!
 
-## 💻 Tech Stack
+## Innovation at lyxe.cx
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Papertrading</h3>
+      <p>Advanced memecoin paper-trading platform with educational focus</p>
+    </td>
+    <td width="50%">
+      <h3>⚡ Web3 Engine</h3>
+      <p>High-performance simulation engine powered by blockchain</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AI Assistant</h3>
+      <p>Smart learning companion for performance optimization</p>
+    </td>
+    <td width="50%">
+      <h3>🏆 Competitive Edge</h3>
+      <p>Gamified learning with blockchain-backed rewards</p>
+    </td>
+  </tr>
+</table>
+
+## Tech Arsenal
 
 <div align="center">
+  <h3>🔗 Blockchain & Web3</h3>
   <img src="https://img.shields.io/badge/Solana-black?style=for-the-badge&logo=solana" alt="Solana" />
-  <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js" alt="Web3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  
+
+  
+  <h3>💻 Languages & Frameworks</h3>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
-## 📫 Connect With Me
+<br/>
 
 <div align="center">
-  <a href="https://twitter.com/isaacodes_"><strong>Twitter</strong></a> •
-  <a href="https://isaac.gift"><strong>Website</strong></a> •
-  <a href="mailto:isaac@lyxe.cx"><strong>Email</strong></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=isaaacodes&show_icons=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Isaac's GitHub Stats" /> 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <i>Let's build the decentralized future together! 🌟</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=isaaacodes&theme=onestar&no-frame=true&row=1&&margin-w=20&no-bg=true" width="100%" />
+</div>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaaacodes&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=isaaacodes&color=blue&style=flat&label=Profile+Views" />
 </div>
