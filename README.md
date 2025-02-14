@@ -53,11 +53,11 @@
 ## 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" alt="Project 1" />
+  <a href="https://github.com/sk1dk/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sk1dk&repo=project1&theme=radical" alt="Project 1" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" alt="Project 2" />
+  <a href="https://github.com/sk1dk/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?sk1dk&repo=project2&theme=radical" alt="Project 2" />
   </a>
 </p>
 
