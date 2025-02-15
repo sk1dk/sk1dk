@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/sk1dk/sk1dk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
-<br>
+
 
 <div align="center">
   <img src="https://github-readme-stats-sk1dk.vercel.app/api?username=sk1dk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
