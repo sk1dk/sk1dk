@@ -19,8 +19,8 @@ const zura = {
         "Discord Bot Development",
         "System Architecture"
     ],
-    currentFocus: "Building secure and scalable applications",
-    funFact: "I turn ☕ into <code />",
+    currentFocus: "uh..",
+    funFact: "i'm not fun at all",
     skills: {
         languages: ["Python", "JavaScript", "C++", "Go", "Ruby"],
         frameworks: ["React", "Node.js", "Express", "Discord.js"],
